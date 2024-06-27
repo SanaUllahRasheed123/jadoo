@@ -1,6 +1,5 @@
 import socialfb from "../assets/images/Social.svg";
 import socialtwi from "../assets/images/Social (1).svg";
-import socialista from "../assets/images/Instagram Circle.png";
 import googleplay from "../assets/images/Google Play.svg";
 import googleplayStore from "../assets/images/Play Store.svg";
 import starts from "../assets/images/Group 4.png";
@@ -74,7 +73,7 @@ const Footer = () => {
             <div className="flex space-x-2 ">
               <img src={socialfb} alt="" className="animate-bounce" />
               <img src={socialtwi} alt="" className="animate-bounce" />
-              <img src={socialista} alt="" className="animate-bounce" />
+              <img src={socialtwi} alt="" className="animate-bounce" />
             </div>
             <span className="text-[#5E6282] text-[20px] font-Poppins">
               Discover our app
